@@ -52,3 +52,4 @@ if p1.getPoints() > p2.getPoints():
 	print(p1.getName() + ' has won!')
 else:
 	print(p2.getName() + ' has won!')
+	
